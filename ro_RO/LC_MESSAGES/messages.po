@@ -13,188 +13,226 @@ msgid "Toggle navigation"
 msgstr ""
 
 #: Menu
+msgctxt "Refers to the homepage of the wiki."
 msgid "Home"
 msgstr ""
 
-#: Menu
+#: Menu & Title
+msgctxt "Refers to the word 'wiki', not the FB Wiki."
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: Menu
+msgctxt "Title to refer to the tools we built on the wiki."
 msgid "Tools"
-msgstr ""
+msgstr "Instrumente"
 
 #: Menu
+msgctxt "Title to go to information that shows how to find us elsewhere on the web."
 msgid "Find Us"
-msgstr ""
+msgstr "Găsește-ne"
 
 #: Menu
+msgctxt "Title to go to information on the FB Wiki team and major contributors."
 msgid "The Team"
-msgstr ""
+msgstr "Echipa"
 
 #: Menu
+msgctxt "Title to go to legal information."
 msgid "Legal"
-msgstr ""
+msgstr "Legal"
 
-#: git/inc/global.php:137 git/inc/global.php:147
+#: Menu
+msgctxt "Title to go to info on contacting the wiki team."
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
-#: git/inc/global.php:155 git/index.php:81 git/index.php:108
-#: git/search-the-wiki/index.php:10 git/search-the-wiki/index.php:57
-#: git/search-the-wiki/index.php:61 git/search-the-wiki/index.php:65
+#: Title of page for searching the wiki.
+msgctxt "Title for the page searching the wiki."
 msgid "Search the Wiki"
-msgstr ""
+msgstr "Caută în Wiki"
 
-#: git/inc/global.php:157 git/search-the-wiki/index.php:69
+#: Search.
+msgctxt "Button to press to submit search."
 msgid "Go"
 msgstr ""
 
-#: git/inc/global.php:171
+#: News bar.
 msgid "NEWS!"
-msgstr ""
+msgstr "NOUTĂȚI!"
 
-#: git/inc/global.php:171
+#: News bar.
 msgid "BREAKING NEWS!"
-msgstr ""
+msgstr "NOUTĂȚI DE ULTIMĂ ORĂ!"
 
-#: git/inc/global.php:195 git/index.php:641
+#: Legal section title & footer.
+msgctxt "Title and/or link for the legal information about the wiki."
 msgid "Legal Information"
-msgstr ""
+msgstr "Informații legale"
 
-#: git/inc/global.php:205 git/index.php:10 git/index.php:12 git/index.php:13
-#: git/index.php:14 git/index.php:78 git/request-an-account/index.php:12
-#: git/search-the-wiki/index.php:12
+#: Title.
+msgctxt "Title of the website. Will always be 'FB Wiki'."
 msgid "FB Wiki"
-msgstr ""
+msgstr "FB Wiki"
 
-#: git/index.php:10 git/index.php:98
+#: Page meta title & sub header.
+msgctxt "A sub header summarizing what the wiki does."
 msgid "the community run wiki about Facebook"
 msgstr ""
 
-#: git/index.php:11 git/index.php:79
+#: Motto used everywhere.
+msgctxt "Motto"
 msgid "Your comprehensive guide to everything Facebook related."
-msgstr ""
+msgstr "Ghidul tău complet pentru tot ceea ce este legat de Facebook."
 
-#: git/index.php:82 git/index.php:409 git/search-the-wiki/index.php:76
+#: 
+msgctxt "Link to learn more."
 msgid "Learn more"
-msgstr ""
+msgstr "Află mai mult"
 
-#: git/index.php:105
+#: #wiki
+msgctxt "Wiki intro."
 msgid "The wiki is a great resource on everything Facebook related!"
-msgstr ""
+msgstr "Wiki este cea mai bună sursă pentru orice legat de Facebook."
 
-#: git/index.php:105
+#: #wiki
+msgctxt "Wiki intro text."
 msgid "This wiki is currently mainly based on Facebook Places but it is in the process of being expanded to other aspects of Facebook."
-msgstr ""
+msgstr "Momentan Wiki în mare parte este axat pe Locuri Facebook"
 
-#: git/index.php:106
+#: #wiki
+msgctxt "Wiki intro text."
 msgid "Here you learn how to become a Super Places Editor."
-msgstr ""
+msgstr "Aici poți afla cum să devii un Super Editor de Locuri."
 
-#: git/index.php:106
+#: #wiki
+msgctxt "Wiki intro text."
 msgid "In this wiki you will find information about Places and Pages including how to edit their data fields, how to use the Places Editor Tool and what is common practice in various scenarios."
-msgstr ""
+msgstr "În acest wiki vei găsi informații despre Locuri și Pagini incluzând cum se editează date, cum se folosește Instrumentul pentru Editarea Locurilor și ce au în comun."
 
-#: git/index.php:106
+#: #wiki
+msgctxt "Wiki intro text."
 msgid "There is also more in depth information about the data fields like location information and contact information."
-msgstr ""
+msgstr "Sunt mai multe informații complexe despre câmpuri de date precum informații referitoare la locație și informații de contact."
 
-#: git/index.php:109 git/search-the-wiki/index.php:75
+#: #wiki
+msgctxt "Link to the homepage of the wiki (at /facebookplaces/w/)"
 msgid "Wiki Start Page"
-msgstr ""
+msgstr "Pagina de Start Wiki"
 
-#: git/index.php:110
+#: 
+msgctxt "Link to the page for requesting an account on the wiki."
 msgid "Request an Account"
-msgstr ""
+msgstr "Solicită un Cont"
 
-#: git/index.php:150
+#: #wiki places
+msgctxt "Facebook Places summary. (Please leave the '%s' intact as they are around links.)"
 msgid "Facebook Places is a product by Facebook that helps users find nearby locations and announce their presence by %schecking in%s to %sPlaces%s."
 msgstr ""
 
-#: git/index.php:150
+#: #wiki places
+msgctxt "Facebook Places intro text. (Please leave the '%s' intact as they are around links.)"
 msgid "People can also %sedit%s Places to improve the Facebook experience for others."
 msgstr ""
 
-#: git/index.php:151
+#: #wiki places
+msgctxt "Facebook places intro text. (Please leave the '%s' intact as they are around links.)"
 msgid "The FB Wiki was %soriginally created%s to provide advanced information to %sPlaces Editors%s and has since been expanded to other aspects of Facebook."
 msgstr ""
 
-#: git/index.php:151
+#: #wiki places
+msgctxt "Facebook places intro text. (Please leave the '%s' intact as they are around links.)"
 msgid "We provide a %sQuick Start Guide%s aimed at Places Editors, both experienced and new editors, and a comprehensive %sFAQ%s."
 msgstr ""
 
-#: git/index.php:180
+#: #wiki pages
+msgctxt "Facebook pages intro text."
 msgid "Pages on Facebook can be used by both businesses and communities to spread their brand or cause."
 msgstr ""
 
-#: git/index.php:180
+#: #wiki pages
+msgctxt "Facebook pages intro text."
 msgid "We provide information about how to use pages and how to manage them."
-msgstr ""
+msgstr "Noi furnizăm informații pentru cum se folosesc și cum se administrează paginile."
 
-#: git/index.php:180
+#: #wiki pages
+msgctxt "Facebook pages intro text."
 msgid "We current focus mainly on pages with location data but this will be extended in the future."
-msgstr ""
+msgstr "Momentan ne axăm în principal pe pagini care conțin date despre locații dar vom extinde în viitor."
 
-#: git/index.php:208
+#: #wiki groups
+msgctxt "Facebook groups intro text."
 msgid "Facebook Groups are places on the Facebook platform whereby people with similar interest can join in a community in the form of a group."
-msgstr ""
+msgstr "Grupuri Facebook sunt locuri pe platforma Facebook unde oameni cu interese similare pot forma un grup sau să facă parte dintr-o comunitate."
 
-#: git/index.php:208
+#: #wiki groups
+msgctxt "Facebook Groups intro text. (Please leave the '%s' intact as they are around links.)"
 msgid "We have essential information about how to use and manage groups."
-msgstr ""
+msgstr "Avem informații esențiale despre cum se folosește și cum se administrează grupurile."
 
-#: git/index.php:236
+#: #wiki
+msgctxt "Facebook intro text. (Please leave the '%s' intact as they are around links.)"
 msgid "Information about the Facebook platform itself, how to use it and any other helpful information."
-msgstr ""
+msgstr "Informații despre platforma Facebook, cum se folosește, dar și alte informații utile."
 
-#: git/index.php:237
+#: #wiki
+msgctxt "Abuse intro text. (Please leave the '%s' intact as they are around links.)"
 msgid "Occasionally you may find someone abusing the Facebook platform."
-msgstr ""
+msgstr "Ocazional poți găsi pe cineva care abuză de platforma Facebook."
 
-#: git/index.php:237
+#: #wiki
+msgctxt "Abuse more info. (Please leave the '%s' intact as they are around links.)"
 msgid "We have information about how to deal with this."
-msgstr ""
+msgstr "Avem informații "
 
-#: git/index.php:384
+#: #tools
+msgctxt "Title for the tools we built section."
 msgid "Tools we Built"
 msgstr ""
 
-#: git/index.php:386
+#: #tools
+msgctxt "Tools intro text."
 msgid "Various tools have been built by the community on Facebook to assist with various tasks."
-msgstr ""
+msgstr "Numeroase instrumente au fost create de comunitate penru a rezolva diferite sarcini pe Facebook."
 
-#: git/index.php:391 git/places-editors-groups/index.php:16
+#: places-editors-groups/
+msgctxt "Title of Places Editors Groups page."
 msgid "Places Editors Groups"
-msgstr ""
+msgstr "Grupul Editorilor de Locuri"
 
-#: git/index.php:392
+#: #tools
+msgctxt "Description of the Places Editors Groups Finder. (Please leave the '%s' intact as they are around links.)"
 msgid "The %sPlaces Editors Group Finder%s is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
-msgstr ""
+msgstr "%sPlaces Editors Group Finder%s este o hartă care arată toate grupurile de Editare Locuri pe Facebook, incluzând cea internațională, socială și de sugestii."
 
-#: git/index.php:392
+#: #tools
+msgctxt "What the Places Editors Groups Finder does."
 msgid "Access this page to find a group for your area."
-msgstr ""
+msgstr "Accesează această pagină pentru a găsi grupul pentru țara ta."
 
-#: git/index.php:393
+#: #tools
+msgctxt "Link to the Places Editors Groups page."
 msgid "Find a Places Editors Group"
-msgstr ""
+msgstr "Găsește un grup"
 
 #: git/index.php:399
+msgctxt "Name of the Facebook Editor Helper."
 msgid "Editor Helper"
 msgstr ""
 
-#: git/index.php:399
+#: #tools
+msgctxt "Tag to refer to Google Chrome extensions."
 msgid "Chrome Extension"
-msgstr ""
+msgstr "Extensie Chrome"
 
 #: git/index.php:400
+msgctxt "Facebook Editor Helper intro text. (Please leave the '%s' intact as they are around links.)"
 msgid "The %sFacebook Editor Helper%s (formally %sGraph Editor Helper%s) is a Google Chrome extension designed to improve the speed and accuracy with which places can be edited using Facebook's Editor app."
 msgstr ""
 
 #: git/index.php:400
 msgid "This is a GitHub project which you can %scontribute to%s and %sread the documentation%s."
-msgstr ""
+msgstr "Acesta este un proiect GitHub la care poți %scontribui%s și să %scitești documentația%s."
 
 #: git/index.php:401
 msgid "Install the Facebook Editor Helper"
@@ -202,91 +240,91 @@ msgstr ""
 
 #: git/index.php:407
 msgid "Link Generator"
-msgstr ""
+msgstr "Generator de Link"
 
 #: git/index.php:407
 msgid "Retired"
-msgstr ""
+msgstr "Retras"
 
 #: git/index.php:408
 msgid "The %sModule Tweak Link Generator%s was a simple tool that was created to provide a link to edit specific Places if their ID number or page link was added to the input field."
-msgstr ""
+msgstr "%sModule Tweak Link Generator%s a fost un instrument simplu folosit la furnizarea link-urilor pentru a edita Locuri specifice dacă ID-ul sau link-ul paginii a fost adăugat în câmpul de intrare."
 
 #: git/index.php:408
 msgid "A module could then be chosen to edit the desired field in the Places Editor for this specified Place."
-msgstr ""
+msgstr "Un modul, mai apoi putea să fie ales pentru a edita câmpurile locului dorit în Editare Locuri."
 
 #: git/index.php:418
 msgid "Module Tweak Link Generator"
-msgstr ""
+msgstr "Module Tweak Link Generator"
 
 #: git/index.php:431
 msgid "%sAnnounced%s in %sJune 25, 2013%s, the %sModule Tweak Link Generator%s was a tool designed to help you edit and review Places."
-msgstr ""
+msgstr "%sAnunțat%s în data de %s25 Iunie, 2013%s,"
 
 #: git/index.php:431
 msgid "The tool worked by generating a link based on various inputs: a URL, an ID number or a search query."
-msgstr ""
+msgstr "Instrumentul a funcționat pe baza generării unui link provenit de la: un URL, un număr ID sau o interogare de căutare."
 
 #: git/index.php:432
 msgid "The tool was a %sgreat success%s and was %swidely used%s."
-msgstr ""
+msgstr "Instrumentul a fost %sun mare succes%s și a fost %sfolosit pe scară largă%s."
 
 #: git/index.php:432
 msgid "The tool was one of the most used pages on the FB Wiki (named Facebook Places Wiki at the time)."
-msgstr ""
+msgstr "Instrumentul a fost printre cele mai folosite pagini pe FB Wiki (numit Locuri pe Facebook Wiki la acel moment)."
 
 #: git/index.php:432
 msgid "It kept going strong and was redesigned recently to fit with the new FB Wiki design."
-msgstr ""
+msgstr "A continuat să fie la fel de bine și a fost reconceput recent să se potrivească cu noul design al FB Wiki."
 
 #: git/index.php:433
 msgid "%sUnfortunately%s though, the option to search for Places to edit by a search query was removed by Facebook meaning that we could no longer use those functions on the tool."
-msgstr ""
+msgstr "%sDin păcate%s totuși, opțiunea de a căuta Locuri pentru a le edita prin căutare a fost eliminată de către Facebook, însemnând că nu mai puteam folosi acele funcții în instrument."
 
 #: git/index.php:433
 msgid "Recently Facebook has been updating the Places Editor app to a single module design meaning that many modules in the tool no longer serve a purpose."
-msgstr ""
+msgstr "Recent, Facebook și-a actualizat aplicația Editare Locuri la un singur modul, însemnând că celelalte module din instrument nu mai puteau fi folosite."
 
 #: git/index.php:433
 msgid "Improvements to the Facebook Places system mean more items can be reviewed and edited directly from clicking 'Edit' on a Place."
-msgstr ""
+msgstr "Îmbunătățirile sistemului Locuri Facebook au avut ca efect editarea directă, făcând click pe 'Editare' la un Loc."
 
 #: git/index.php:434
 msgid "As a result of all these changes we have decided that Facebook are improving their system well enough that our tool is no longer as useful as it used to be."
-msgstr ""
+msgstr "Ca și rezultat a acestor schimbări făcute de Facebook, am ajuns la concluzia că sistemul devenise destul de eficient, astfel încât instrumentul creat de noi nu a mai fost necesar."
 
 #: git/index.php:434
 msgid "We have chosen to %sretire%s the tool on %sAugust 11, 2014%s because of this."
-msgstr ""
+msgstr "Am ales să %sretragem%s instrumentul pe %s11 August, 2014%s din cauza asta."
 
 #: git/index.php:434
 msgid "We hope the tool will be remembered for the great help it has been."
-msgstr ""
+msgstr "Sperăm ca acest instrument să fie amintit pentru ajutorul imens pe care ni l-a oferit."
 
 #: git/index.php:435
 msgid "Screenshot of part of the Module Tweak Link Generator"
-msgstr ""
+msgstr "Captură de ecran pentru o parte din Module Tweak Link Generator"
 
 #: git/index.php:436
 msgid "This is one of the graphics used to present the Module Tweak Link Generator when it was in use."
-msgstr ""
+msgstr "Aceasta este una dintre graficile folosite să prezinte Module Tweak Link Generator când a fost încă folosit."
 
 #: git/index.php:436
 msgid "February 2014."
-msgstr ""
+msgstr "Februarie 2014."
 
 #: git/index.php:437
 msgid "Thanks everyone for enjoying the tool! We look forward to bringing more features soon to the FB Wiki!"
-msgstr ""
+msgstr "Mulțumim tuturor pentru folosirea instrumentului! Așteptăm cu nerăbdare să aducem mai multe caracteristici în curând pe FB Wiki!"
 
 #: git/index.php:438
 msgid "Text last updated on August 11, 2014."
-msgstr ""
+msgstr "Text ultima dată actualizat pe 11 August, 2014."
 
 #: git/index.php:441
 msgid "Close"
-msgstr ""
+msgstr "Închide"
 
 #: git/index.php:461
 msgid "Find Us on the Web"
@@ -294,31 +332,31 @@ msgstr ""
 
 #: git/index.php:468
 msgid "Coming soon"
-msgstr ""
+msgstr "În curând"
 
 #: git/index.php:471
 msgid "You can find us primarily on Facebook on our %spage%s and in our %sgroup%s, or you can follow us on %sTwitter%s where we broadcast updates from our Facebook page and on %sGoogle+%s %s!"
-msgstr ""
+msgstr "Ne poți găsi pe Facebook pe %spagina%s noastră și pe %sgrupul%s nostru, sau poți să ne urmărești pe %sTwitter%s unde publicăm actualizările de pe pagina de Facebook și pe %sGoogle+%s %s!"
 
 #: git/index.php:471
 msgid "Be sure to join us to get the latest news!"
-msgstr ""
+msgstr "Asigură-te că ni te-ai alăturat pentru a primi cele mai recente noutăți!"
 
 #: git/index.php:476 git/index.php:479
 msgid "Facebook Icon"
-msgstr ""
+msgstr "Icoană Facebook"
 
 #: git/index.php:486
 msgid "Twitter Icon"
-msgstr ""
+msgstr "Icoană Twitter"
 
 #: git/index.php:489
 msgid "Google Plus Icon"
-msgstr ""
+msgstr "Icoană Google Plus"
 
 #: git/index.php:503
 msgid "The FB Wiki Team"
-msgstr ""
+msgstr "Echipa FB Wiki"
 
 #: git/index.php:503
 msgid "Major Contributors"
@@ -326,19 +364,19 @@ msgstr ""
 
 #: git/index.php:505
 msgid "The following people are apart of the FB Wiki team or are major contributors."
-msgstr ""
+msgstr "Următoarele persoane fac parte din echipa FB Wiki sau se numără printre principalii colaboratori."
 
 #: git/index.php:505
 msgid "There are many more people who have also helped in various communities but we couldn't fit everyone on this page."
-msgstr ""
+msgstr "Există mult mai multe persoane care de asemenea au ajutat în diferite comunități, dar nu am putut pune aici pe toată lumea."
 
 #: git/index.php:521
 msgid "Jason Friend"
-msgstr ""
+msgstr "Jason Friend"
 
 #: git/index.php:532
 msgid "Jason is the original founder of the %swiki%s and maintains the %sFB Wiki website%s."
-msgstr ""
+msgstr "Jason este fondatorul original al %swiki%s și întreține %ssite-ul FB Wiki%s."
 
 #: git/index.php:532
 msgid "He also manages the Facebook page & Twitter for the %sFB Wiki%s and the %sPlaces Editors Community%s."
@@ -350,7 +388,7 @@ msgstr ""
 
 #: git/index.php:548
 msgid "Emile Dingemans"
-msgstr ""
+msgstr "Emile Dingemans"
 
 #: git/index.php:556
 msgid "Emile created the %soriginal FAQ%s for the Places Editors community which %slater became%s part of the FB Wiki."
@@ -362,7 +400,7 @@ msgstr ""
 
 #: git/index.php:572
 msgid "Dr. Michel Floyd"
-msgstr ""
+msgstr "Dr. Michel Floyd"
 
 #: git/index.php:578
 msgid "Michel is the original founder of the %sFacebook Editor Helper%s and is the main developer %scurrently improving it%s."
@@ -370,27 +408,27 @@ msgstr ""
 
 #: git/index.php:588
 msgid "Places Editors Community"
-msgstr ""
+msgstr "Comunitatea Editorilor de Locuri"
 
 #: git/index.php:589
 msgid "This community is in the reason the FB Wiki was originally founded and the community regular helps with the %sFacebook Places%s side of the wiki."
-msgstr ""
+msgstr "Această comunitate este motivul pentru care FB Wiki a fost fondat și alături de %sLocuri pe Facebook%s ajută comunitatea wiki."
 
 #: git/index.php:595
 msgid "FB Wiki Community"
-msgstr ""
+msgstr "Comunitatea FB Wiki"
 
 #: git/index.php:596
 msgid "The community of people in the FB Wiki's Facebook group are essential in helping improve the %swiki%s and other %stools%s."
-msgstr ""
+msgstr "Comunitatea celor care fac parte din grupul de Facebook, FB Wiki, este esențial în îmbunătățirea %swiki%s și a altor %sinstrumente%s."
 
 #: git/index.php:596
 msgid "This project would not be a success without them."
-msgstr ""
+msgstr "Acest proiect nu ar fi de succes fără ei."
 
 #: git/index.php:643
 msgid "(This section is in English only)."
-msgstr ""
+msgstr "(Această secțiune este doar în limba Engleză)."
 
 #: git/index.php:654
 msgid "Contact Us"
@@ -398,49 +436,53 @@ msgstr ""
 
 #: git/index.php:661
 msgid "If you wish to contact us, please do so by either messaging our %sFacebook page%s or by posting in our %sFacebook group%s."
-msgstr ""
+msgstr "Dacă dorești să ne contactezi, o poți face fie prin intermediul %spaginii Facebook%s, fie să postezi în acest  %sgrup Facebook%s."
 
 #: git/index.php:661
 msgid "Alternatively, you may email the FB Wiki with the following email address:"
-msgstr ""
+msgstr "În mod alternativ, puteți trimite un email către FB Wiki la această adresă de email:"
 
 #: git/index.php:669
 msgid "email cannot be shown without javascript"
-msgstr ""
+msgstr "email-ul nu poate fi afișat fără javascript"
 
 #: git/index.php:670
 msgid "If you need to contact us urgently regarding this website then please email the developer, Jason Friend, using the email on %shis personal website%s."
-msgstr ""
+msgstr "Dacă ai nevoie să ne contactezi urgent privind acest site web atunci atunci te rugăm să trimiți un email dezvoltatorului, Jason Friend, folosind adresa de email aflat pe %ssite-ul lui de web personal%s."
 
 #: git/index.php:672
 msgid "In the near future we will update this page with a form to make it easier for you to contact us by email and to let us respond faster."
-msgstr ""
+msgstr "În viitorul apropiat vom actualiza această pagină cu un formular care va face mult mai ușoară contactarea noastră prin email și să putem răspunde mai rapid."
 
 #: git/index.php:672
 msgid "For help about Facebook Places, please see the %sPlaces Editors group%s on Facebook."
-msgstr ""
+msgstr "Pentru a obține ajutor despre Locuri Facebook, te rugăm să vizitezi %sgrupul Editorilor de Locuri%s pe Facebook."
 
 #: git/places-editors-groups/index.php:17
 msgid "The Places Editors Group Finder is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
 msgstr ""
 
-#: git/places-editors-groups/index.php:64
+#: 'Places Editors Groups' page.
+msgctxt "Name given to the main Places Editors group."
 msgid "Main International Group"
 msgstr ""
 
-#: git/places-editors-groups/index.php:65
+#: 'Places Editors Groups' page.
+msgctxt "Name given to the social community Places Editors group."
 msgid "Social Community Group"
 msgstr ""
 
-#: git/places-editors-groups/index.php:66
+#: 'Places Editors Groups' page.
+msgctxt "Name given to the ideas Places Editors group."
 msgid "Ideas Group"
 msgstr ""
 
-#: git/places-editors-groups/index.php:68
+#: 'Places Editors Groups' page.
 msgid "Alternative List View"
 msgstr ""
 
-#: git/places-editors-groups/index.php:68
+#: 'Places Editors Groups' page.
+msgctxt "Explanation for what the 'Alternative List View' is."
 msgid "Go to the Community tab of the Facebook Editor to see groups in list format."
 msgstr ""
 
@@ -462,5 +504,5 @@ msgstr ""
 
 #: git/search-the-wiki/index.php:58
 msgid "Welcome to the main search page for the wiki &mdash; your comprehensive guide to everything Facebook related."
-msgstr ""
+msgstr "Bine ai venit pe pagina principală de căutare pentru wiki &mdash; ghidul tău complet pentru tot ceea ce este legat de Facebook."
 
