@@ -10,7 +10,7 @@ msgstr ""
 #: Menu
 msgctxt "Navigation toggle for mobile users."
 msgid "Toggle navigation"
-msgstr ""
+msgstr "ナビの表示/非表示"
 
 #: Menu
 msgctxt "Refers to the homepage of the wiki."
@@ -23,7 +23,6 @@ msgid "Wiki"
 msgstr "ウィキ"
 
 #: Menu
-msgctxt "Title to refer to the tools we built on the wiki."
 msgid "Tools"
 msgstr "ツール"
 
@@ -55,7 +54,7 @@ msgstr ""
 #: Search.
 msgctxt "Button to press to submit search."
 msgid "Go"
-msgstr ""
+msgstr "検索"
 
 #: News bar.
 msgid "NEWS!"
@@ -83,7 +82,7 @@ msgstr ""
 #: Motto used everywhere.
 msgctxt "Motto"
 msgid "Your comprehensive guide to everything Facebook related."
-msgstr ""
+msgstr "Facebookに関するあらゆるものの包括的なガイドです。"
 
 #: 
 msgctxt "Link to learn more."
