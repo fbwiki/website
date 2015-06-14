@@ -7,18 +7,15 @@ msgstr ""
 "Project-Id-Version: FB Wiki\n"
 "Language: fr\n"
 
-#: Menu
-msgctxt "Navigation toggle for mobile users."
+#: Navigation toggle for mobile users.
 msgid "Toggle navigation"
 msgstr "Basculer la navigation"
 
-#: Menu
-msgctxt "Refers to the homepage of the wiki."
+#: Refers to the homepage of the wiki.
 msgid "Home"
 msgstr "Maison"
 
-#: Menu & Title
-msgctxt "Refers to the word 'wiki', not the FB Wiki."
+#: Refers to the word 'wiki', not the FB Wiki.
 msgid "Wiki"
 msgstr "Wiki"
 
@@ -26,33 +23,27 @@ msgstr "Wiki"
 msgid "Tools"
 msgstr "Outils"
 
-#: Menu
-msgctxt "Title to go to information that shows how to find us elsewhere on the web."
+#: Title to go to information that shows how to find us elsewhere on the web.
 msgid "Find Us"
 msgstr "Trouve Nous"
 
-#: Menu
-msgctxt "Title to go to information on the FB Wiki team and major contributors."
+#: Title to go to information on the FB Wiki team and major contributors.
 msgid "The Team"
 msgstr "L'Équipe"
 
-#: Menu
-msgctxt "Title to go to legal information."
+#: Title to go to legal information.
 msgid "Legal"
 msgstr "Juridique"
 
-#: Menu
-msgctxt "Title to go to info on contacting the wiki team."
+#: Title to go to info on contacting the wiki team.
 msgid "Contact"
 msgstr "Contact"
 
-#: Title of page for searching the wiki.
-msgctxt "Title for the page searching the wiki."
+#: Title for the page searching the wiki.
 msgid "Search the Wiki"
 msgstr "Rechercher sur le Wiki"
 
-#: Search.
-msgctxt "Button to press to submit search."
+#: Button to press to submit search.
 msgid "Go"
 msgstr "Aller"
 
@@ -65,167 +56,134 @@ msgid "BREAKING NEWS!"
 msgstr "DERNIÈRES NOUVELLES!"
 
 #: Legal section title & footer.
-msgctxt "Title and/or link for the legal information about the wiki."
 msgid "Legal Information"
 msgstr "Informations légales"
 
-#: Title.
-msgctxt "Title of the website. Will always be 'FB Wiki'."
+#: Title of the website. Will always be 'FB Wiki'.
 msgid "FB Wiki"
 msgstr "FB Wiki"
 
-#: Page meta title & sub header.
-msgctxt "A sub header summarizing what the wiki does."
+#: A sub header summarizing what the wiki does.
 msgid "the community run wiki about Facebook"
 msgstr "la communauté terme wiki à propos de Facebook"
 
 #: Motto used everywhere.
-msgctxt "Motto"
 msgid "Your comprehensive guide to everything Facebook related."
 msgstr "Votre guide complet pour tout liée Facebook."
 
-#: 
-msgctxt "Link to learn more."
+#: Link to learn more.
 msgid "Learn more"
 msgstr "Apprendre plus"
 
-#: #wiki
-msgctxt "Wiki intro."
+#: Wiki intro.
 msgid "The wiki is a great resource on everything Facebook related!"
 msgstr "Le wiki est une grande ressource sur tout liée Facebook!"
 
-#: #wiki
-msgctxt "Wiki intro text."
+#: Wiki intro text.
 msgid "This wiki is currently mainly based on Facebook Places but it is in the process of being expanded to other aspects of Facebook."
 msgstr "Ce wiki est actuellement basé principalement sur Facebook Places, mais il est en train d'être élargi à d'autres aspects de Facebook."
 
-#: #wiki
-msgctxt "Wiki intro text."
+#: Wiki intro text.
 msgid "Here you learn how to become a Super Places Editor."
 msgstr "Ici, vous apprendrez à devenir un éditeur de Super Places."
 
-#: #wiki
-msgctxt "Wiki intro text."
+#: Wiki intro text.
 msgid "In this wiki you will find information about Places and Pages including how to edit their data fields, how to use the Places Editor Tool and what is common practice in various scenarios."
 msgstr "Dans ce wiki, vous trouverez des informations sur les lieux et les pages, y compris la façon de modifier leurs champs de données, comment utiliser l'éditeur de l'outil Lieux et ce qui est pratique courante dans différents scénarios."
 
-#: #wiki
-msgctxt "Wiki intro text."
+#: Wiki intro text.
 msgid "There is also more in depth information about the data fields like location information and contact information."
 msgstr "Il ya aussi des informations plus détaillées sur les champs de données tels que les informations de localisation et les informations de contact."
 
-#: #wiki
-msgctxt "Link to the homepage of the wiki (at /facebookplaces/w/)"
+#: Link to the homepage of the wiki (at /facebookplaces/w/)
 msgid "Wiki Start Page"
 msgstr "Wiki Start Page"
 
-#: 
-msgctxt "Link to the page for requesting an account on the wiki."
+#: Link to the page for requesting an account on the wiki.
 msgid "Request an Account"
 msgstr "Demander un compte"
 
-#: #wiki places
-msgctxt "Facebook Places summary. (Please leave the '%s' intact as they are around links.)"
+#: Facebook Places summary. (Please leave the '%s' intact as they are around links.)
 msgid "Facebook Places is a product by Facebook that helps users find nearby locations and announce their presence by %schecking in%s to %sPlaces%s."
 msgstr "Facebook Places est un produit par Facebook qui aide les utilisateurs à trouver les localités voisines et annoncent leur présence par sContrôle% en% s à% sPlaces% s."
 
-#: #wiki places
-msgctxt "Facebook Places intro text. (Please leave the '%s' intact as they are around links.)"
+#: Facebook Places intro text. (Please leave the '%s' intact as they are around links.)
 msgid "People can also %sedit%s Places to improve the Facebook experience for others."
 msgstr "Les gens peuvent également% Sedit% s Places pour améliorer l'expérience Facebook pour les autres."
 
-#: #wiki places
-msgctxt "Facebook places intro text. (Please leave the '%s' intact as they are around links.)"
+#: Facebook places intro text. (Please leave the '%s' intact as they are around links.)
 msgid "The FB Wiki was %soriginally created%s to provide advanced information to %sPlaces Editors%s and has since been expanded to other aspects of Facebook."
 msgstr "Le FB Wiki était% soriginally créé% s pour fournir l'information de pointe aux rédacteurs% s% et a depuis été élargi à d'autres aspects de Facebook."
 
-#: #wiki places
-msgctxt "Facebook places intro text. (Please leave the '%s' intact as they are around links.)"
+#: Facebook places intro text. (Please leave the '%s' intact as they are around links.)
 msgid "We provide a %sQuick Start Guide%s aimed at Places Editors, both experienced and new editors, and a comprehensive %sFAQ%s."
 msgstr "Nous fournissons un guide%% s visant à Lieux éditeurs, rédacteurs en chef à la fois expérimentés et nouveaux, et un vaste% SFAQ% s sGuide de démarrage rapide."
 
-#: #wiki pages
-msgctxt "Facebook pages intro text."
+#: Facebook pages intro text.
 msgid "Pages on Facebook can be used by both businesses and communities to spread their brand or cause."
 msgstr "Pages sur Facebook peuvent être utilisés par les entreprises et les communautés à se répandre leur marque ou leur cause."
 
-#: #wiki pages
-msgctxt "Facebook pages intro text."
+#: Facebook pages intro text.
 msgid "We provide information about how to use pages and how to manage them."
 msgstr "Nous fournissons des informations sur la façon d'utiliser des pages et comment les gérer."
 
-#: #wiki pages
-msgctxt "Facebook pages intro text."
+#: Facebook pages intro text.
 msgid "We current focus mainly on pages with location data but this will be extended in the future."
 msgstr "Nous nous concentrons principalement sur les pages en cours avec les données de localisation, mais ce sera étendu à l'avenir."
 
-#: #wiki groups
-msgctxt "Facebook groups intro text."
+#: Facebook groups intro text.
 msgid "Facebook Groups are places on the Facebook platform whereby people with similar interest can join in a community in the form of a group."
 msgstr "Groupes Facebook sont des lieux sur la plate-forme Facebook où les gens avec des intérêts similaires peuvent se joindre à une communauté sous la forme d'un groupe."
 
-#: #wiki groups
-msgctxt "Facebook Groups intro text. (Please leave the '%s' intact as they are around links.)"
+#: Facebook Groups intro text. (Please leave the '%s' intact as they are around links.)
 msgid "We have essential information about how to use and manage groups."
 msgstr "Nous avons des informations essentielles sur la façon d'utiliser et de gérer des groupes."
 
-#: #wiki
-msgctxt "Facebook intro text. (Please leave the '%s' intact as they are around links.)"
+#: Facebook intro text. (Please leave the '%s' intact as they are around links.)
 msgid "Information about the Facebook platform itself, how to use it and any other helpful information."
 msgstr "Informations sur la plate-forme Facebook lui-même, comment l'utiliser et toute autre information utile."
 
-#: #wiki
-msgctxt "Abuse intro text. (Please leave the '%s' intact as they are around links.)"
+#: Abuse intro text. (Please leave the '%s' intact as they are around links.)
 msgid "Occasionally you may find someone abusing the Facebook platform."
 msgstr "Occasionnellement, vous pouvez trouver quelqu'un abusant de la plate-forme Facebook."
 
-#: #wiki
-msgctxt "Abuse more info. (Please leave the '%s' intact as they are around links.)"
+#: Abuse more info. (Please leave the '%s' intact as they are around links.)
 msgid "We have information about how to deal with this."
 msgstr "Nous avons des informations sur la façon de traiter cette question."
 
-#: #tools
-msgctxt "Title for the tools we built section."
+#: Title for the tools we built section.
 msgid "Tools we Built"
 msgstr "Outils Nous avons construit"
 
-#: #tools
-msgctxt "Tools intro text."
+#: Tools intro text.
 msgid "Various tools have been built by the community on Facebook to assist with various tasks."
 msgstr "Différents outils ont été construits par la communauté sur Facebook pour aider à diverses tâches."
 
-#: places-editors-groups/
-msgctxt "Title of Places Editors Groups page."
+#: Title of Places Editors Groups page.
 msgid "Places Editors Groups"
 msgstr "Place rédacteurs Groupes"
 
-#: #tools
-msgctxt "Description of the Places Editors Groups Finder. (Please leave the '%s' intact as they are around links.)"
+#: Description of the Places Editors Groups Finder. (Please leave the '%s' intact as they are around links.)
 msgid "The %sPlaces Editors Group Finder%s is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
 msgstr "Le groupe Editors% sPlaces Finder% s est une carte montrant tous les groupes sur Facebook pour Lieux éditeurs, y compris les groupes internationaux, sociaux et idées."
 
 #: #tools
-msgctxt "What the Places Editors Groups Finder does."
 msgid "Access this page to find a group for your area."
 msgstr "Accédez à cette page pour trouver un groupe pour votre région."
 
-#: #tools
-msgctxt "Link to the Places Editors Groups page."
+#: Link to the Places Editors Groups page.
 msgid "Find a Places Editors Group"
 msgstr "Trouver un groupe Places éditeurs"
 
-#: git/index.php:399
-msgctxt "Name of the Facebook Editor Helper."
+#: Name of the Facebook Editor Helper.
 msgid "Editor Helper"
 msgstr "Editeur Helper"
 
-#: #tools
-msgctxt "Tag to refer to Google Chrome extensions."
+#: Tag to refer to Google Chrome extensions.
 msgid "Chrome Extension"
 msgstr "Chrome Extension"
 
-#: git/index.php:400
-msgctxt "Facebook Editor Helper intro text. (Please leave the '%s' intact as they are around links.)"
+#: Facebook Editor Helper intro text. (Please leave the '%s' intact as they are around links.)
 msgid "The %sFacebook Editor Helper%s (formally %sGraph Editor Helper%s) is a Google Chrome extension designed to improve the speed and accuracy with which places can be edited using Facebook's Editor app."
 msgstr "La% sFacebook Editor Helper% s (formellement% sGraph Editor Helper% s) est une extension Google Chrome conçu pour améliorer la vitesse et la précision avec laquelle endroits peuvent être modifiés à l'aide Editor app Facebook."
 
