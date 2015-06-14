@@ -5,172 +5,172 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: FB Wiki\n"
-"Language: en\n"
+"Language: fr\n"
 
 #: Menu
 msgctxt "Navigation toggle for mobile users."
 msgid "Toggle navigation"
-msgstr "Toggle navigation"
+msgstr ""
 
 #: Menu
 msgid "Home"
-msgstr "Home"
+msgstr ""
 
 #: Menu
 msgid "Wiki"
-msgstr "Wiki"
+msgstr ""
 
 #: Menu
 msgid "Tools"
-msgstr "Tools"
+msgstr ""
 
 #: Menu
 msgid "Find Us"
-msgstr "Find Us"
+msgstr ""
 
 #: Menu
 msgid "The Team"
-msgstr "The Team"
+msgstr ""
 
 #: Menu
 msgid "Legal"
-msgstr "Legal"
+msgstr ""
 
 #: git/inc/global.php:137 git/inc/global.php:147
 msgid "Contact"
-msgstr "Contact"
+msgstr ""
 
 #: git/inc/global.php:155 git/index.php:81 git/index.php:108
 #: git/search-the-wiki/index.php:10 git/search-the-wiki/index.php:57
 #: git/search-the-wiki/index.php:61 git/search-the-wiki/index.php:65
 msgid "Search the Wiki"
-msgstr "Search the Wiki"
+msgstr ""
 
 #: git/inc/global.php:157 git/search-the-wiki/index.php:69
 msgid "Go"
-msgstr "Go"
+msgstr ""
 
 #: git/inc/global.php:171
 msgid "NEWS!"
-msgstr "NEWS!"
+msgstr ""
 
 #: git/inc/global.php:171
 msgid "BREAKING NEWS!"
-msgstr "BREAKING NEWS!"
+msgstr ""
 
 #: git/inc/global.php:195 git/index.php:641
 msgid "Legal Information"
-msgstr "Legal Information"
+msgstr ""
 
 #: git/inc/global.php:205 git/index.php:10 git/index.php:12 git/index.php:13
 #: git/index.php:14 git/index.php:78 git/request-an-account/index.php:12
 #: git/search-the-wiki/index.php:12
 msgid "FB Wiki"
-msgstr "FB Wiki"
+msgstr ""
 
 #: git/index.php:10 git/index.php:98
 msgid "the community run wiki about Facebook"
-msgstr "the community run wiki about Facebook"
+msgstr ""
 
 #: git/index.php:11 git/index.php:79
 msgid "Your comprehensive guide to everything Facebook related."
-msgstr "Your comprehensive guide to everything Facebook related."
+msgstr ""
 
 #: git/index.php:82 git/index.php:409 git/search-the-wiki/index.php:76
 msgid "Learn more"
-msgstr "Learn more"
+msgstr ""
 
 #: git/index.php:105
 msgid "The wiki is a great resource on everything Facebook related!"
-msgstr "The wiki is a great resource on everything Facebook related!"
+msgstr ""
 
 #: git/index.php:105
 msgid "This wiki is currently mainly based on Facebook Places but it is in the process of being expanded to other aspects of Facebook."
-msgstr "This wiki is currently mainly based on Facebook Places but it is in the process of being expanded to other aspects of Facebook."
+msgstr ""
 
 #: git/index.php:106
 msgid "Here you learn how to become a Super Places Editor."
-msgstr "Here you learn how to become a Super Places Editor."
+msgstr ""
 
 #: git/index.php:106
 msgid "In this wiki you will find information about Places and Pages including how to edit their data fields, how to use the Places Editor Tool and what is common practice in various scenarios."
-msgstr "In this wiki you will find information about Places and Pages including how to edit their data fields, how to use the Places Editor Tool and what is common practice in various scenarios."
+msgstr ""
 
 #: git/index.php:106
 msgid "There is also more in depth information about the data fields like location information and contact information."
-msgstr "There is also more in depth information about the data fields like location information and contact information."
+msgstr ""
 
 #: git/index.php:109 git/search-the-wiki/index.php:75
 msgid "Wiki Start Page"
-msgstr "Wiki Start Page"
+msgstr ""
 
 #: git/index.php:110
 msgid "Request an Account"
-msgstr "Request an Account"
+msgstr ""
 
 #: git/index.php:150
 msgid "Facebook Places is a product by Facebook that helps users find nearby locations and announce their presence by %schecking in%s to %sPlaces%s."
-msgstr "Facebook Places is a product by Facebook that helps users find nearby locations and announce their presence by %schecking in%s to %sPlaces%s."
+msgstr ""
 
 #: git/index.php:150
 msgid "People can also %sedit%s Places to improve the Facebook experience for others."
-msgstr "People can also %sedit%s Places to improve the Facebook experience for others."
+msgstr ""
 
 #: git/index.php:151
 msgid "The FB Wiki was %soriginally created%s to provide advanced information to %sPlaces Editors%s and has since been expanded to other aspects of Facebook."
-msgstr "The FB Wiki was %soriginally created%s to provide advanced information to %sPlaces Editors%s and has since been expanded to other aspects of Facebook."
+msgstr ""
 
 #: git/index.php:151
 msgid "We provide a %sQuick Start Guide%s aimed at Places Editors, both experienced and new editors, and a comprehensive %sFAQ%s."
-msgstr "We provide a %sQuick Start Guide%s aimed at Places Editors, both experienced and new editors, and a comprehensive %sFAQ%s."
+msgstr ""
 
 #: git/index.php:180
 msgid "Pages on Facebook can be used by both businesses and communities to spread their brand or cause."
-msgstr "Pages on Facebook can be used by both businesses and communities to spread their brand or cause."
+msgstr ""
 
 #: git/index.php:180
 msgid "We provide information about how to use pages and how to manage them."
-msgstr "We provide information about how to use pages and how to manage them."
+msgstr ""
 
 #: git/index.php:180
 msgid "We current focus mainly on pages with location data but this will be extended in the future."
-msgstr "We current focus mainly on pages with location data but this will be extended in the future."
+msgstr ""
 
 #: git/index.php:208
 msgid "Facebook Groups are places on the Facebook platform whereby people with similar interest can join in a community in the form of a group."
-msgstr "Facebook Groups are places on the Facebook platform whereby people with similar interest can join in a community in the form of a group."
+msgstr ""
 
 #: git/index.php:208
 msgid "We have essential information about how to use and manage groups."
-msgstr "We have essential information about how to use and manage groups."
+msgstr ""
 
 #: git/index.php:236
 msgid "Information about the Facebook platform itself, how to use it and any other helpful information."
-msgstr "Information about the Facebook platform itself, how to use it and any other helpful information."
+msgstr ""
 
 #: git/index.php:237
 msgid "Occasionally you may find someone abusing the Facebook platform."
-msgstr "Occasionally you may find someone abusing the Facebook platform."
+msgstr ""
 
 #: git/index.php:237
 msgid "We have information about how to deal with this."
-msgstr "Occasionally you may find someone abusing the Facebook platform."
+msgstr ""
 
 #: git/index.php:384
 msgid "Tools we Built"
-msgstr "Tools we Built"
+msgstr ""
 
 #: git/index.php:386
 msgid "Various tools have been built by the community on Facebook to assist with various tasks."
-msgstr "Various tools have been built by the community on Facebook to assist with various tasks."
+msgstr ""
 
 #: git/index.php:391 git/places-editors-groups/index.php:16
 msgid "Places Editors Groups"
-msgstr "Places Editors Groups"
+msgstr ""
 
 #: git/index.php:392
 msgid "The %sPlaces Editors Group Finder%s is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
-msgstr "The %sPlaces Editors Group Finder%s is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
+msgstr ""
 
 #: git/index.php:392
 msgid "Access this page to find a group for your area."
@@ -317,9 +317,8 @@ msgid "Google Plus Icon"
 msgstr ""
 
 #: git/index.php:503
-#, fuzzy
 msgid "The FB Wiki Team"
-msgstr "The Team"
+msgstr ""
 
 #: git/index.php:503
 msgid "Major Contributors"
@@ -394,9 +393,8 @@ msgid "(This section is in English only)."
 msgstr ""
 
 #: git/index.php:654
-#, fuzzy
 msgid "Contact Us"
-msgstr "Contact"
+msgstr ""
 
 #: git/index.php:661
 msgid "If you wish to contact us, please do so by either messaging our %sFacebook page%s or by posting in our %sFacebook group%s."
@@ -455,17 +453,14 @@ msgid "Loading"
 msgstr ""
 
 #: git/request-an-account/index.php:11
-#, fuzzy
 msgid "Request an account on the FB Wiki &mdash; your comprehensive guide to everything Facebook related."
-msgstr "your comprehensive guide to everything Facebook related"
+msgstr ""
 
 #: git/search-the-wiki/index.php:11
-#, fuzzy
 msgid "This is the main wiki search page for the FB Wiki &mdash; your comprehensive guide to everything Facebook related."
-msgstr "your comprehensive guide to everything Facebook related"
+msgstr ""
 
 #: git/search-the-wiki/index.php:58
-#, fuzzy
 msgid "Welcome to the main search page for the wiki &mdash; your comprehensive guide to everything Facebook related."
-msgstr "your comprehensive guide to everything Facebook related"
+msgstr ""
 
