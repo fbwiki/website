@@ -1,16 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: FB Wiki\n"
-"POT-Creation-Date: 2015-06-14 03:15-0000\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.5\n"
-"X-Poedit-SearchPath-0: git\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: FB Wiki\n"
+"Language: en\n"
 
 #: git/inc/global.php:122
 msgid "Toggle navigation"
@@ -90,28 +85,19 @@ msgstr "The wiki is a great resource on everything Facebook related!"
 
 #: git/index.php:105
 #, fuzzy
-msgid ""
-"This wiki is currently mainly based on Facebook Places but it is in the "
-"process of being expanded to other aspects of Facebook."
-msgstr ""
-"This wiki is currently mainly based on Facebook Places but it currently in "
-"the process of being expanded to other aspects of Facebook."
+msgid "This wiki is currently mainly based on Facebook Places but it is in the process of being expanded to other aspects of Facebook."
+msgstr "This wiki is currently mainly based on Facebook Places but it currently in the process of being expanded to other aspects of Facebook."
 
 #: git/index.php:106
 msgid "Here you learn how to become a Super Places Editor."
 msgstr "Here you learn how to become a Super Places Editor."
 
 #: git/index.php:106
-msgid ""
-"In this wiki you will find information about Places and Pages including how "
-"to edit their data fields, how to use the Places Editor Tool and what is "
-"common practice in various scenarios."
+msgid "In this wiki you will find information about Places and Pages including how to edit their data fields, how to use the Places Editor Tool and what is common practice in various scenarios."
 msgstr ""
 
 #: git/index.php:106
-msgid ""
-"There is also more in depth information about the data fields like location "
-"information and contact information."
+msgid "There is also more in depth information about the data fields like location information and contact information."
 msgstr ""
 
 #: git/index.php:109 git/search-the-wiki/index.php:75
@@ -123,39 +109,24 @@ msgid "Request an Account"
 msgstr ""
 
 #: git/index.php:150
-#, php-format
-msgid ""
-"Facebook Places is a product by Facebook that helps users find nearby "
-"locations and announce their presence by %schecking in%s to %sPlaces%s."
+msgid "Facebook Places is a product by Facebook that helps users find nearby locations and announce their presence by %schecking in%s to %sPlaces%s."
 msgstr ""
 
 #: git/index.php:150
-#, php-format
-msgid ""
-"People can also %sedit%s Places to improve the Facebook experience for "
-"others."
+msgid "People can also %sedit%s Places to improve the Facebook experience for others."
 msgstr ""
 
 #: git/index.php:151
-#, fuzzy, php-format
-msgid ""
-"The FB Wiki was %soriginally created%s to provide advanced information to "
-"%sPlaces Editors%s and has since been expanded to other aspects of Facebook."
-msgstr ""
-"This wiki is currently mainly based on Facebook Places but it currently in "
-"the process of being expanded to other aspects of Facebook."
+#, fuzzy
+msgid "The FB Wiki was %soriginally created%s to provide advanced information to %sPlaces Editors%s and has since been expanded to other aspects of Facebook."
+msgstr "This wiki is currently mainly based on Facebook Places but it currently in the process of being expanded to other aspects of Facebook."
 
 #: git/index.php:151
-#, php-format
-msgid ""
-"We provide a %sQuick Start Guide%s aimed at Places Editors, both experienced "
-"and new editors, and a comprehensive %sFAQ%s."
+msgid "We provide a %sQuick Start Guide%s aimed at Places Editors, both experienced and new editors, and a comprehensive %sFAQ%s."
 msgstr ""
 
 #: git/index.php:180
-msgid ""
-"Pages on Facebook can be used by both businesses and communities to spread "
-"their brand or cause."
+msgid "Pages on Facebook can be used by both businesses and communities to spread their brand or cause."
 msgstr ""
 
 #: git/index.php:180
@@ -163,15 +134,11 @@ msgid "We provide information about how to use pages and how to manage them."
 msgstr ""
 
 #: git/index.php:180
-msgid ""
-"We current focus mainly on pages with location data but this will be "
-"extended in the future."
+msgid "We current focus mainly on pages with location data but this will be extended in the future."
 msgstr ""
 
 #: git/index.php:208
-msgid ""
-"Facebook Groups are places on the Facebook platform whereby people with "
-"similar interest can join in a community in the form of a group."
+msgid "Facebook Groups are places on the Facebook platform whereby people with similar interest can join in a community in the form of a group."
 msgstr ""
 
 #: git/index.php:208
@@ -179,9 +146,7 @@ msgid "We have essential information about how to use and manage groups."
 msgstr ""
 
 #: git/index.php:236
-msgid ""
-"Information about the Facebook platform itself, how to use it and any other "
-"helpful information."
+msgid "Information about the Facebook platform itself, how to use it and any other helpful information."
 msgstr ""
 
 #: git/index.php:237
@@ -197,9 +162,7 @@ msgid "Tools we Built"
 msgstr ""
 
 #: git/index.php:386
-msgid ""
-"Various tools have been built by the community on Facebook to assist with "
-"various tasks."
+msgid "Various tools have been built by the community on Facebook to assist with various tasks."
 msgstr ""
 
 #: git/index.php:391 git/places-editors-groups/index.php:16
@@ -207,11 +170,7 @@ msgid "Places Editors Groups"
 msgstr ""
 
 #: git/index.php:392
-#, php-format
-msgid ""
-"The %sPlaces Editors Group Finder%s is a map showing all the groups on "
-"Facebook for Places Editors, including the international, social and ideas "
-"groups."
+msgid "The %sPlaces Editors Group Finder%s is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
 msgstr ""
 
 #: git/index.php:392
@@ -231,18 +190,11 @@ msgid "Chrome Extension"
 msgstr ""
 
 #: git/index.php:400
-#, php-format
-msgid ""
-"The %sFacebook Editor Helper%s (formally %sGraph Editor Helper%s) is a "
-"Google Chrome extension designed to improve the speed and accuracy with "
-"which places can be edited using Facebook's Editor app."
+msgid "The %sFacebook Editor Helper%s (formally %sGraph Editor Helper%s) is a Google Chrome extension designed to improve the speed and accuracy with which places can be edited using Facebook's Editor app."
 msgstr ""
 
 #: git/index.php:400
-#, php-format
-msgid ""
-"This is a GitHub project which you can %scontribute to%s and %sread the "
-"documentation%s."
+msgid "This is a GitHub project which you can %scontribute to%s and %sread the documentation%s."
 msgstr ""
 
 #: git/index.php:401
@@ -258,17 +210,11 @@ msgid "Retired"
 msgstr ""
 
 #: git/index.php:408
-#, php-format
-msgid ""
-"The %sModule Tweak Link Generator%s was a simple tool that was created to "
-"provide a link to edit specific Places if their ID number or page link was "
-"added to the input field."
+msgid "The %sModule Tweak Link Generator%s was a simple tool that was created to provide a link to edit specific Places if their ID number or page link was added to the input field."
 msgstr ""
 
 #: git/index.php:408
-msgid ""
-"A module could then be chosen to edit the desired field in the Places Editor "
-"for this specified Place."
+msgid "A module could then be chosen to edit the desired field in the Places Editor for this specified Place."
 msgstr ""
 
 #: git/index.php:418
@@ -276,66 +222,43 @@ msgid "Module Tweak Link Generator"
 msgstr ""
 
 #: git/index.php:431
-#, php-format
-msgid ""
-"%sAnnounced%s in %sJune 25, 2013%s, the %sModule Tweak Link Generator%s was "
-"a tool designed to help you edit and review Places."
+msgid "%sAnnounced%s in %sJune 25, 2013%s, the %sModule Tweak Link Generator%s was a tool designed to help you edit and review Places."
 msgstr ""
 
 #: git/index.php:431
-msgid ""
-"The tool worked by generating a link based on various inputs: a URL, an ID "
-"number or a search query."
+msgid "The tool worked by generating a link based on various inputs: a URL, an ID number or a search query."
 msgstr ""
 
 #: git/index.php:432
-#, php-format
 msgid "The tool was a %sgreat success%s and was %swidely used%s."
 msgstr ""
 
 #: git/index.php:432
-msgid ""
-"The tool was one of the most used pages on the FB Wiki (named Facebook "
-"Places Wiki at the time)."
+msgid "The tool was one of the most used pages on the FB Wiki (named Facebook Places Wiki at the time)."
 msgstr ""
 
 #: git/index.php:432
-msgid ""
-"It kept going strong and was redesigned recently to fit with the new FB Wiki "
-"design."
+msgid "It kept going strong and was redesigned recently to fit with the new FB Wiki design."
 msgstr ""
 
 #: git/index.php:433
-#, php-format
-msgid ""
-"%sUnfortunately%s though, the option to search for Places to edit by a "
-"search query was removed by Facebook meaning that we could no longer use "
-"those functions on the tool."
+msgid "%sUnfortunately%s though, the option to search for Places to edit by a search query was removed by Facebook meaning that we could no longer use those functions on the tool."
 msgstr ""
 
 #: git/index.php:433
-msgid ""
-"Recently Facebook has been updating the Places Editor app to a single module "
-"design meaning that many modules in the tool no longer serve a purpose."
+msgid "Recently Facebook has been updating the Places Editor app to a single module design meaning that many modules in the tool no longer serve a purpose."
 msgstr ""
 
 #: git/index.php:433
-msgid ""
-"Improvements to the Facebook Places system mean more items can be reviewed "
-"and edited directly from clicking 'Edit' on a Place."
+msgid "Improvements to the Facebook Places system mean more items can be reviewed and edited directly from clicking 'Edit' on a Place."
 msgstr ""
 
 #: git/index.php:434
-msgid ""
-"As a result of all these changes we have decided that Facebook are improving "
-"their system well enough that our tool is no longer as useful as it used to "
-"be."
+msgid "As a result of all these changes we have decided that Facebook are improving their system well enough that our tool is no longer as useful as it used to be."
 msgstr ""
 
 #: git/index.php:434
-#, php-format
-msgid ""
-"We have chosen to %sretire%s the tool on %sAugust 11, 2014%s because of this."
+msgid "We have chosen to %sretire%s the tool on %sAugust 11, 2014%s because of this."
 msgstr ""
 
 #: git/index.php:434
@@ -347,9 +270,7 @@ msgid "Screenshot of part of the Module Tweak Link Generator"
 msgstr ""
 
 #: git/index.php:436
-msgid ""
-"This is one of the graphics used to present the Module Tweak Link Generator "
-"when it was in use."
+msgid "This is one of the graphics used to present the Module Tweak Link Generator when it was in use."
 msgstr ""
 
 #: git/index.php:436
@@ -357,9 +278,7 @@ msgid "February 2014."
 msgstr ""
 
 #: git/index.php:437
-msgid ""
-"Thanks everyone for enjoying the tool! We look forward to bringing more "
-"features soon to the FB Wiki!"
+msgid "Thanks everyone for enjoying the tool! We look forward to bringing more features soon to the FB Wiki!"
 msgstr ""
 
 #: git/index.php:438
@@ -379,11 +298,7 @@ msgid "Coming soon"
 msgstr ""
 
 #: git/index.php:471
-#, php-format
-msgid ""
-"You can find us primarily on Facebook on our %spage%s and in our %sgroup%s, "
-"or you can follow us on %sTwitter%s where we broadcast updates from our "
-"Facebook page and on %sGoogle+%s %s!"
+msgid "You can find us primarily on Facebook on our %spage%s and in our %sgroup%s, or you can follow us on %sTwitter%s where we broadcast updates from our Facebook page and on %sGoogle+%s %s!"
 msgstr ""
 
 #: git/index.php:471
@@ -412,14 +327,11 @@ msgid "Major Contributors"
 msgstr ""
 
 #: git/index.php:505
-msgid ""
-"The following people are apart of the FB Wiki team or are major contributors."
+msgid "The following people are apart of the FB Wiki team or are major contributors."
 msgstr ""
 
 #: git/index.php:505
-msgid ""
-"There are many more people who have also helped in various communities but "
-"we couldn't fit everyone on this page."
+msgid "There are many more people who have also helped in various communities but we couldn't fit everyone on this page."
 msgstr ""
 
 #: git/index.php:521
@@ -427,24 +339,15 @@ msgid "Jason Friend"
 msgstr ""
 
 #: git/index.php:532
-#, php-format
-msgid ""
-"Jason is the original founder of the %swiki%s and maintains the %sFB Wiki "
-"website%s."
+msgid "Jason is the original founder of the %swiki%s and maintains the %sFB Wiki website%s."
 msgstr ""
 
 #: git/index.php:532
-#, php-format
-msgid ""
-"He also manages the Facebook page & Twitter for the %sFB Wiki%s and the "
-"%sPlaces Editors Community%s."
+msgid "He also manages the Facebook page & Twitter for the %sFB Wiki%s and the %sPlaces Editors Community%s."
 msgstr ""
 
 #: git/index.php:532
-#, php-format
-msgid ""
-"You can find him administering numerous %sPlaces Editors groups%s including "
-"the main international group."
+msgid "You can find him administering numerous %sPlaces Editors groups%s including the main international group."
 msgstr ""
 
 #: git/index.php:548
@@ -452,16 +355,11 @@ msgid "Emile Dingemans"
 msgstr ""
 
 #: git/index.php:556
-#, php-format
-msgid ""
-"Emile created the %soriginal FAQ%s for the Places Editors community which "
-"%slater became%s part of the FB Wiki."
+msgid "Emile created the %soriginal FAQ%s for the Places Editors community which %slater became%s part of the FB Wiki."
 msgstr ""
 
 #: git/index.php:556
-#, php-format
-msgid ""
-"He has also helped %supdate the content%s on the wiki and %sproofread it%s."
+msgid "He has also helped %supdate the content%s on the wiki and %sproofread it%s."
 msgstr ""
 
 #: git/index.php:572
@@ -469,10 +367,7 @@ msgid "Dr. Michel Floyd"
 msgstr ""
 
 #: git/index.php:578
-#, php-format
-msgid ""
-"Michel is the original founder of the %sFacebook Editor Helper%s and is the "
-"main developer %scurrently improving it%s."
+msgid "Michel is the original founder of the %sFacebook Editor Helper%s and is the main developer %scurrently improving it%s."
 msgstr ""
 
 #: git/index.php:588
@@ -480,10 +375,7 @@ msgid "Places Editors Community"
 msgstr ""
 
 #: git/index.php:589
-#, php-format
-msgid ""
-"This community is in the reason the FB Wiki was originally founded and the "
-"community regular helps with the %sFacebook Places%s side of the wiki."
+msgid "This community is in the reason the FB Wiki was originally founded and the community regular helps with the %sFacebook Places%s side of the wiki."
 msgstr ""
 
 #: git/index.php:595
@@ -491,10 +383,7 @@ msgid "FB Wiki Community"
 msgstr ""
 
 #: git/index.php:596
-#, php-format
-msgid ""
-"The community of people in the FB Wiki's Facebook group are essential in "
-"helping improve the %swiki%s and other %stools%s."
+msgid "The community of people in the FB Wiki's Facebook group are essential in helping improve the %swiki%s and other %stools%s."
 msgstr ""
 
 #: git/index.php:596
@@ -511,15 +400,11 @@ msgid "Contact Us"
 msgstr "Contact"
 
 #: git/index.php:661
-#, php-format
-msgid ""
-"If you wish to contact us, please do so by either messaging our %sFacebook "
-"page%s or by posting in our %sFacebook group%s."
+msgid "If you wish to contact us, please do so by either messaging our %sFacebook page%s or by posting in our %sFacebook group%s."
 msgstr ""
 
 #: git/index.php:661
-msgid ""
-"Alternatively, you may email the FB Wiki with the following email address:"
+msgid "Alternatively, you may email the FB Wiki with the following email address:"
 msgstr ""
 
 #: git/index.php:669
@@ -527,29 +412,19 @@ msgid "email cannot be shown without javascript"
 msgstr ""
 
 #: git/index.php:670
-#, php-format
-msgid ""
-"If you need to contact us urgently regarding this website then please email "
-"the developer, Jason Friend, using the email on %shis personal website%s."
+msgid "If you need to contact us urgently regarding this website then please email the developer, Jason Friend, using the email on %shis personal website%s."
 msgstr ""
 
 #: git/index.php:672
-msgid ""
-"In the near future we will update this page with a form to make it easier "
-"for you to contact us by email and to let us respond faster."
+msgid "In the near future we will update this page with a form to make it easier for you to contact us by email and to let us respond faster."
 msgstr ""
 
 #: git/index.php:672
-#, php-format
-msgid ""
-"For help about Facebook Places, please see the %sPlaces Editors group%s on "
-"Facebook."
+msgid "For help about Facebook Places, please see the %sPlaces Editors group%s on Facebook."
 msgstr ""
 
 #: git/places-editors-groups/index.php:17
-msgid ""
-"The Places Editors Group Finder is a map showing all the groups on Facebook "
-"for Places Editors, including the international, social and ideas groups."
+msgid "The Places Editors Group Finder is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
 msgstr ""
 
 #: git/places-editors-groups/index.php:64
@@ -569,8 +444,7 @@ msgid "Alternative List View"
 msgstr ""
 
 #: git/places-editors-groups/index.php:68
-msgid ""
-"Go to the Community tab of the Facebook Editor to see groups in list format."
+msgid "Go to the Community tab of the Facebook Editor to see groups in list format."
 msgstr ""
 
 #: git/places-editors-groups/index.php:72
@@ -583,24 +457,16 @@ msgstr ""
 
 #: git/request-an-account/index.php:11
 #, fuzzy
-msgid ""
-"Request an account on the FB Wiki &mdash; your comprehensive guide to "
-"everything Facebook related."
+msgid "Request an account on the FB Wiki &mdash; your comprehensive guide to everything Facebook related."
 msgstr "your comprehensive guide to everything Facebook related"
 
 #: git/search-the-wiki/index.php:11
 #, fuzzy
-msgid ""
-"This is the main wiki search page for the FB Wiki &mdash; your comprehensive "
-"guide to everything Facebook related."
+msgid "This is the main wiki search page for the FB Wiki &mdash; your comprehensive guide to everything Facebook related."
 msgstr "your comprehensive guide to everything Facebook related"
 
 #: git/search-the-wiki/index.php:58
 #, fuzzy
-msgid ""
-"Welcome to the main search page for the wiki &mdash; your comprehensive "
-"guide to everything Facebook related."
+msgid "Welcome to the main search page for the wiki &mdash; your comprehensive guide to everything Facebook related."
 msgstr "your comprehensive guide to everything Facebook related"
 
-#~ msgid "test"
-#~ msgstr "test"
