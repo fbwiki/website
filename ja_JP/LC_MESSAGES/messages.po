@@ -15,17 +15,17 @@ msgstr ""
 #: Menu
 msgctxt "Refers to the homepage of the wiki."
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 #: Menu & Title
 msgctxt "Refers to the word 'wiki', not the FB Wiki."
 msgid "Wiki"
-msgstr ""
+msgstr "ウィキ"
 
 #: Menu
 msgctxt "Title to refer to the tools we built on the wiki."
 msgid "Tools"
-msgstr ""
+msgstr "ツール"
 
 #: Menu
 msgctxt "Title to go to information that shows how to find us elsewhere on the web."
@@ -59,7 +59,7 @@ msgstr ""
 
 #: News bar.
 msgid "NEWS!"
-msgstr ""
+msgstr "ニュース!"
 
 #: News bar.
 msgid "BREAKING NEWS!"
@@ -205,23 +205,28 @@ msgctxt "Description of the Places Editors Groups Finder. (Please leave the '%s'
 msgid "The %sPlaces Editors Group Finder%s is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
 msgstr ""
 
-#: git/index.php:392
+#: #tools
+msgctxt "What the Places Editors Groups Finder does."
 msgid "Access this page to find a group for your area."
 msgstr ""
 
-#: git/index.php:393
+#: #tools
+msgctxt "Link to the Places Editors Groups page."
 msgid "Find a Places Editors Group"
 msgstr ""
 
 #: git/index.php:399
+msgctxt "Name of the Facebook Editor Helper."
 msgid "Editor Helper"
 msgstr ""
 
-#: git/index.php:399
+#: #tools
+msgctxt "Tag to refer to Google Chrome extensions."
 msgid "Chrome Extension"
 msgstr ""
 
 #: git/index.php:400
+msgctxt "Facebook Editor Helper intro text. (Please leave the '%s' intact as they are around links.)"
 msgid "The %sFacebook Editor Helper%s (formally %sGraph Editor Helper%s) is a Google Chrome extension designed to improve the speed and accuracy with which places can be edited using Facebook's Editor app."
 msgstr ""
 
