@@ -1,0 +1,466 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: FB Wiki\n"
+"Language: fr\n"
+
+#: Menu
+msgctxt "Navigation toggle for mobile users."
+msgid "Toggle navigation"
+msgstr "Basculer la navigation"
+
+#: Menu
+msgid "Home"
+msgstr "Maison"
+
+#: Menu
+msgid "Wiki"
+msgstr "Wiki"
+
+#: Menu
+msgid "Tools"
+msgstr "Outils"
+
+#: Menu
+msgid "Find Us"
+msgstr "Trouve Nous"
+
+#: Menu
+msgid "The Team"
+msgstr "L'Équipe"
+
+#: Menu
+msgid "Legal"
+msgstr "Juridique"
+
+#: git/inc/global.php:137 git/inc/global.php:147
+msgid "Contact"
+msgstr "Contact"
+
+#: git/inc/global.php:155 git/index.php:81 git/index.php:108
+#: git/search-the-wiki/index.php:10 git/search-the-wiki/index.php:57
+#: git/search-the-wiki/index.php:61 git/search-the-wiki/index.php:65
+msgid "Search the Wiki"
+msgstr "Rechercher sur le Wiki"
+
+#: git/inc/global.php:157 git/search-the-wiki/index.php:69
+msgid "Go"
+msgstr "Aller"
+
+#: git/inc/global.php:171
+msgid "NEWS!"
+msgstr "NOUVELLES!"
+
+#: git/inc/global.php:171
+msgid "BREAKING NEWS!"
+msgstr "DERNIÈRES NOUVELLES!"
+
+#: git/inc/global.php:195 git/index.php:641
+msgid "Legal Information"
+msgstr "Informations légales"
+
+#: git/inc/global.php:205 git/index.php:10 git/index.php:12 git/index.php:13
+#: git/index.php:14 git/index.php:78 git/request-an-account/index.php:12
+#: git/search-the-wiki/index.php:12
+msgid "FB Wiki"
+msgstr "FB Wiki"
+
+#: git/index.php:10 git/index.php:98
+msgid "the community run wiki about Facebook"
+msgstr "la communauté terme wiki à propos de Facebook"
+
+#: git/index.php:11 git/index.php:79
+msgid "Your comprehensive guide to everything Facebook related."
+msgstr "Votre guide complet pour tout liée Facebook."
+
+#: git/index.php:82 git/index.php:409 git/search-the-wiki/index.php:76
+msgid "Learn more"
+msgstr "Apprendre plus"
+
+#: git/index.php:105
+msgid "The wiki is a great resource on everything Facebook related!"
+msgstr "Le wiki est une grande ressource sur tout liée Facebook!"
+
+#: git/index.php:105
+msgid "This wiki is currently mainly based on Facebook Places but it is in the process of being expanded to other aspects of Facebook."
+msgstr "Ce wiki est actuellement basé principalement sur Facebook Places, mais il est en train d'être élargi à d'autres aspects de Facebook."
+
+#: git/index.php:106
+msgid "Here you learn how to become a Super Places Editor."
+msgstr "Ici, vous apprendrez à devenir un éditeur de Super Places."
+
+#: git/index.php:106
+msgid "In this wiki you will find information about Places and Pages including how to edit their data fields, how to use the Places Editor Tool and what is common practice in various scenarios."
+msgstr "Dans ce wiki, vous trouverez des informations sur les lieux et les pages, y compris la façon de modifier leurs champs de données, comment utiliser l'éditeur de l'outil Lieux et ce qui est pratique courante dans différents scénarios."
+
+#: git/index.php:106
+msgid "There is also more in depth information about the data fields like location information and contact information."
+msgstr "Il ya aussi des informations plus détaillées sur les champs de données tels que les informations de localisation et les informations de contact."
+
+#: git/index.php:109 git/search-the-wiki/index.php:75
+msgid "Wiki Start Page"
+msgstr "Wiki Start Page"
+
+#: git/index.php:110
+msgid "Request an Account"
+msgstr "Demander un compte"
+
+#: git/index.php:150
+msgid "Facebook Places is a product by Facebook that helps users find nearby locations and announce their presence by %schecking in%s to %sPlaces%s."
+msgstr "Facebook Places est un produit par Facebook qui aide les utilisateurs à trouver les localités voisines et annoncent leur présence par sContrôle% en% s à% sPlaces% s."
+
+#: git/index.php:150
+msgid "People can also %sedit%s Places to improve the Facebook experience for others."
+msgstr "Les gens peuvent également% Sedit% s Places pour améliorer l'expérience Facebook pour les autres."
+
+#: git/index.php:151
+msgid "The FB Wiki was %soriginally created%s to provide advanced information to %sPlaces Editors%s and has since been expanded to other aspects of Facebook."
+msgstr "Le FB Wiki était% soriginally créé% s pour fournir l'information de pointe aux rédacteurs% s% et a depuis été élargi à d'autres aspects de Facebook."
+
+#: git/index.php:151
+msgid "We provide a %sQuick Start Guide%s aimed at Places Editors, both experienced and new editors, and a comprehensive %sFAQ%s."
+msgstr "Nous fournissons un guide%% s visant à Lieux éditeurs, rédacteurs en chef à la fois expérimentés et nouveaux, et un vaste% SFAQ% s sGuide de démarrage rapide."
+
+#: git/index.php:180
+msgid "Pages on Facebook can be used by both businesses and communities to spread their brand or cause."
+msgstr "Pages sur Facebook peuvent être utilisés par les entreprises et les communautés à se répandre leur marque ou leur cause."
+
+#: git/index.php:180
+msgid "We provide information about how to use pages and how to manage them."
+msgstr "Nous fournissons des informations sur la façon d'utiliser des pages et comment les gérer."
+
+#: git/index.php:180
+msgid "We current focus mainly on pages with location data but this will be extended in the future."
+msgstr "Nous nous concentrons principalement sur les pages en cours avec les données de localisation, mais ce sera étendu à l'avenir."
+
+#: git/index.php:208
+msgid "Facebook Groups are places on the Facebook platform whereby people with similar interest can join in a community in the form of a group."
+msgstr "Groupes Facebook sont des lieux sur la plate-forme Facebook où les gens avec des intérêts similaires peuvent se joindre à une communauté sous la forme d'un groupe."
+
+#: git/index.php:208
+msgid "We have essential information about how to use and manage groups."
+msgstr "Nous avons des informations essentielles sur la façon d'utiliser et de gérer des groupes."
+
+#: git/index.php:236
+msgid "Information about the Facebook platform itself, how to use it and any other helpful information."
+msgstr "Informations sur la plate-forme Facebook lui-même, comment l'utiliser et toute autre information utile."
+
+#: git/index.php:237
+msgid "Occasionally you may find someone abusing the Facebook platform."
+msgstr "Occasionnellement, vous pouvez trouver quelqu'un abusant de la plate-forme Facebook."
+
+#: git/index.php:237
+msgid "We have information about how to deal with this."
+msgstr "Nous avons des informations sur la façon de traiter cette question."
+
+#: git/index.php:384
+msgid "Tools we Built"
+msgstr "Outils Nous avons construit"
+
+#: git/index.php:386
+msgid "Various tools have been built by the community on Facebook to assist with various tasks."
+msgstr "Différents outils ont été construits par la communauté sur Facebook pour aider à diverses tâches."
+
+#: git/index.php:391 git/places-editors-groups/index.php:16
+msgid "Places Editors Groups"
+msgstr "Place rédacteurs Groupes"
+
+#: git/index.php:392
+msgid "The %sPlaces Editors Group Finder%s is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
+msgstr "Le groupe Editors% sPlaces Finder% s est une carte montrant tous les groupes sur Facebook pour Lieux éditeurs, y compris les groupes internationaux, sociaux et idées."
+
+#: git/index.php:392
+msgid "Access this page to find a group for your area."
+msgstr "Accédez à cette page pour trouver un groupe pour votre région."
+
+#: git/index.php:393
+msgid "Find a Places Editors Group"
+msgstr "Trouver un groupe Places éditeurs"
+
+#: git/index.php:399
+msgid "Editor Helper"
+msgstr "Editeur Helper"
+
+#: git/index.php:399
+msgid "Chrome Extension"
+msgstr "Chrome Extension"
+
+#: git/index.php:400
+msgid "The %sFacebook Editor Helper%s (formally %sGraph Editor Helper%s) is a Google Chrome extension designed to improve the speed and accuracy with which places can be edited using Facebook's Editor app."
+msgstr "La% sFacebook Editor Helper% s (formellement% sGraph Editor Helper% s) est une extension Google Chrome conçu pour améliorer la vitesse et la précision avec laquelle endroits peuvent être modifiés à l'aide Editor app Facebook."
+
+#: git/index.php:400
+msgid "This is a GitHub project which you can %scontribute to%s and %sread the documentation%s."
+msgstr "Ceci est un projet GitHub que vous pouvez scontribute% à% s et% sLit la documentation% s."
+
+#: git/index.php:401
+msgid "Install the Facebook Editor Helper"
+msgstr "Installez le Facebook Editor Helper"
+
+#: git/index.php:407
+msgid "Link Generator"
+msgstr "Lien Générateur"
+
+#: git/index.php:407
+msgid "Retired"
+msgstr "Retraité"
+
+#: git/index.php:408
+msgid "The %sModule Tweak Link Generator%s was a simple tool that was created to provide a link to edit specific Places if their ID number or page link was added to the input field."
+msgstr "La% sModule Tweak Lien Générateur% s était un outil simple qui a été créé pour fournir un lien pour modifier Lieux spécifiques si leur numéro d'identification ou de la page lien a été ajouté à la zone de saisie."
+
+#: git/index.php:408
+msgid "A module could then be chosen to edit the desired field in the Places Editor for this specified Place."
+msgstr "Un module pourrait alors être choisi pour modifier le champ souhaité dans l'éditeur Places pour ce lieu déterminé."
+
+#: git/index.php:418
+msgid "Module Tweak Link Generator"
+msgstr "Module Tweak Lien Générateur"
+
+#: git/index.php:431
+msgid "%sAnnounced%s in %sJune 25, 2013%s, the %sModule Tweak Link Generator%s was a tool designed to help you edit and review Places."
+msgstr "% SAnnounced% s en% sJune 25, 2013% s, l'% sModule Tweak Lien Générateur% s était un outil conçu pour vous aider à éditer et d'examen Places."
+
+#: git/index.php:431
+msgid "The tool worked by generating a link based on various inputs: a URL, an ID number or a search query."
+msgstr "L'outil a travaillé en générant un lien fondé sur différentes entrées: une URL, un numéro d'identification ou d'une requête de recherche."
+
+#: git/index.php:432
+msgid "The tool was a %sgreat success%s and was %swidely used%s."
+msgstr "L'outil était succès% s% s et était% swidely utilisé% s."
+
+#: git/index.php:432
+msgid "The tool was one of the most used pages on the FB Wiki (named Facebook Places Wiki at the time)."
+msgstr "L'outil a été l'une des pages les plus utilisés sur le FB Wiki (Facebook Places nommé Wiki à l'époque)."
+
+#: git/index.php:432
+msgid "It kept going strong and was redesigned recently to fit with the new FB Wiki design."
+msgstr "Il a continué à aller fort et a été remanié récemment pour répondre à la nouvelle conception FB Wiki."
+
+#: git/index.php:433
+msgid "%sUnfortunately%s though, the option to search for Places to edit by a search query was removed by Facebook meaning that we could no longer use those functions on the tool."
+msgstr "% SUnfortunately% s bien, la possibilité de rechercher des lieux à modifier par une requête de recherche a été supprimé par Facebook sens que nous ne pouvions plus utiliser ces fonctions sur l'outil."
+
+#: git/index.php:433
+msgid "Recently Facebook has been updating the Places Editor app to a single module design meaning that many modules in the tool no longer serve a purpose."
+msgstr "Récemment Facebook a mis à jour l'application Lieux éditeur à un module de conception unique qui signifie que de nombreux modules dans l'outil ne servent plus un but."
+
+#: git/index.php:433
+msgid "Improvements to the Facebook Places system mean more items can be reviewed and edited directly from clicking 'Edit' on a Place."
+msgstr "Les améliorations apportées au système Facebook Places signifient plusieurs éléments peuvent être revus et édités directement depuis cliquant sur «Modifier» sur une place."
+
+#: git/index.php:434
+msgid "As a result of all these changes we have decided that Facebook are improving their system well enough that our tool is no longer as useful as it used to be."
+msgstr "À la suite de tous ces changements, nous avons décidé que Facebook améliorent leur système assez bien que notre outil est plus aussi utile que l'habitude d'être."
+
+#: git/index.php:434
+msgid "We have chosen to %sretire%s the tool on %sAugust 11, 2014%s because of this."
+msgstr "Nous avons choisi de% sretire% s l'outil sur 11% sAugust 2014% s à cause de cela."
+
+#: git/index.php:434
+msgid "We hope the tool will be remembered for the great help it has been."
+msgstr "Nous espérons que l'outil se souviendra pour la grande aide qu'il a été."
+
+#: git/index.php:435
+msgid "Screenshot of part of the Module Tweak Link Generator"
+msgstr "Capture d'écran d'une partie du module Tweak Lien Générateur"
+
+#: git/index.php:436
+msgid "This is one of the graphics used to present the Module Tweak Link Generator when it was in use."
+msgstr "Ceci est l'un des graphiques utilisées pour présenter le module Tweak Lien Générateur quand il était dans l'utilisation."
+
+#: git/index.php:436
+msgid "February 2014."
+msgstr "Février 2014."
+
+#: git/index.php:437
+msgid "Thanks everyone for enjoying the tool! We look forward to bringing more features soon to the FB Wiki!"
+msgstr "Merci à tous pour profiter de l'outil! Nous avons hâte d'apporter bientôt plus de fonctionnalités pour le FB Wiki!"
+
+#: git/index.php:438
+msgid "Text last updated on August 11, 2014."
+msgstr "Texte dernière mise à jour le 11 Août 2014."
+
+#: git/index.php:441
+msgid "Close"
+msgstr "Près"
+
+#: git/index.php:461
+msgid "Find Us on the Web"
+msgstr "Retrouvez-nous sur le Web"
+
+#: git/index.php:468
+msgid "Coming soon"
+msgstr "À venir"
+
+#: git/index.php:471
+msgid "You can find us primarily on Facebook on our %spage%s and in our %sgroup%s, or you can follow us on %sTwitter%s where we broadcast updates from our Facebook page and on %sGoogle+%s %s!"
+msgstr "Vous pouvez nous trouver principalement sur Facebook sur notre% spage% s et dans notre% sgroup% s, ou vous pouvez nous suivre sur sTwitter%% s où nous diffusons des mises à jour de notre page Facebook et sur sGoogle% +% s% s!"
+
+#: git/index.php:471
+msgid "Be sure to join us to get the latest news!"
+msgstr "Assurez-vous joindre à nous pour obtenir les dernières nouvelles!"
+
+#: git/index.php:476 git/index.php:479
+msgid "Facebook Icon"
+msgstr "Facebook Icône"
+
+#: git/index.php:486
+msgid "Twitter Icon"
+msgstr "Twitter Icon"
+
+#: git/index.php:489
+msgid "Google Plus Icon"
+msgstr "Google Plus Icon"
+
+#: git/index.php:503
+msgid "The FB Wiki Team"
+msgstr "Le Wiki équipe FB"
+
+#: git/index.php:503
+msgid "Major Contributors"
+msgstr "Principaux contributeurs"
+
+#: git/index.php:505
+msgid "The following people are apart of the FB Wiki team or are major contributors."
+msgstr "Les personnes suivantes sont en dehors de l'équipe FB Wiki ou sont les principaux contributeurs."
+
+#: git/index.php:505
+msgid "There are many more people who have also helped in various communities but we couldn't fit everyone on this page."
+msgstr "Il ya beaucoup plus de personnes qui ont également contribué à diverses communautés, mais nous ne pouvions pas tenir tout le monde sur cette page."
+
+#: git/index.php:521
+msgid "Jason Friend"
+msgstr "Jason ami"
+
+#: git/index.php:532
+msgid "Jason is the original founder of the %swiki%s and maintains the %sFB Wiki website%s."
+msgstr "Jason est le fondateur de l'% Swiki% s et maintient le site Wiki% SFB% s."
+
+#: git/index.php:532
+msgid "He also manages the Facebook page & Twitter for the %sFB Wiki%s and the %sPlaces Editors Community%s."
+msgstr "Il gère également la page Facebook & Twitter pour l'% SFB Wiki% s et l'% sPlaces rédacteurs% communautaire s."
+
+#: git/index.php:532
+msgid "You can find him administering numerous %sPlaces Editors groups%s including the main international group."
+msgstr "Vous pouvez trouver lui administrer de nombreux groupes sPlaces% Editeurs% s, y compris le groupe international principal."
+
+#: git/index.php:548
+msgid "Emile Dingemans"
+msgstr "Emile Dingemans"
+
+#: git/index.php:556
+msgid "Emile created the %soriginal FAQ%s for the Places Editors community which %slater became%s part of the FB Wiki."
+msgstr "Emile a créé la FAQ% soriginal% s pour la communauté Places éditeurs qui% Slater est devenu la partie% de la FB Wiki."
+
+#: git/index.php:556
+msgid "He has also helped %supdate the content%s on the wiki and %sproofread it%s."
+msgstr "Il a également aidé% supdate le contenu% s sur le wiki et il% sproofread% s."
+
+#: git/index.php:572
+msgid "Dr. Michel Floyd"
+msgstr "Dr Michel Floyd"
+
+#: git/index.php:578
+msgid "Michel is the original founder of the %sFacebook Editor Helper%s and is the main developer %scurrently improving it%s."
+msgstr "Michel est le fondateur de l'% sFacebook Editor Helper% s et est le principal développeur% scurrently l'améliorer% s."
+
+#: git/index.php:588
+msgid "Places Editors Community"
+msgstr "Place Editors Communauté"
+
+#: git/index.php:589
+msgid "This community is in the reason the FB Wiki was originally founded and the community regular helps with the %sFacebook Places%s side of the wiki."
+msgstr "Cette communauté est dans la raison, le FB Wiki a été fondée à l'origine et de la régulière de la communauté aide à la sFacebook Lieux côté%% s du wiki."
+
+#: git/index.php:595
+msgid "FB Wiki Community"
+msgstr "FB Wiki communautaire"
+
+#: git/index.php:596
+msgid "The community of people in the FB Wiki's Facebook group are essential in helping improve the %swiki%s and other %stools%s."
+msgstr "La communauté de personnes dans le groupe Facebook de la FB Wiki sont essentiels pour aider à améliorer l'% Swiki% s et autres tabourets%% s."
+
+#: git/index.php:596
+msgid "This project would not be a success without them."
+msgstr "Ce projet ne serait pas un succès sans eux."
+
+#: git/index.php:643
+msgid "(This section is in English only)."
+msgstr "(Cet article est en anglais seulement)."
+
+#: git/index.php:654
+msgid "Contact Us"
+msgstr "Contactez Nous"
+
+#: git/index.php:661
+msgid "If you wish to contact us, please do so by either messaging our %sFacebook page%s or by posting in our %sFacebook group%s."
+msgstr "Si vous souhaitez nous contacter, s'il vous plaît le faire soit par messagerie notre% page sFacebook% s ou en affichant dans notre groupe% sFacebook% s."
+
+#: git/index.php:661
+msgid "Alternatively, you may email the FB Wiki with the following email address:"
+msgstr "Alternativement, vous pouvez envoyer un courriel au FB Wiki avec l'adresse e-mail suivante:"
+
+#: git/index.php:669
+msgid "email cannot be shown without javascript"
+msgstr "mail ne peut pas être représentée sans javascript"
+
+#: git/index.php:670
+msgid "If you need to contact us urgently regarding this website then please email the developer, Jason Friend, using the email on %shis personal website%s."
+msgstr "Si vous avez besoin de nous contacter au sujet de ce site de toute urgence alors s'il vous plaît écrivez-le développeur, Jason ami, en utilisant l'e-mail sur% shis site perso% s."
+
+#: git/index.php:672
+msgid "In the near future we will update this page with a form to make it easier for you to contact us by email and to let us respond faster."
+msgstr "Dans un proche avenir, nous mettrons à jour cette page avec un formulaire pour le rendre plus facile pour vous de nous contacter par e-mail et de nous répondre plus rapidement."
+
+#: git/index.php:672
+msgid "For help about Facebook Places, please see the %sPlaces Editors group%s on Facebook."
+msgstr "Pour une aide sur Facebook Places, s'il vous plaît voir le groupe Editors% s de l'% sur Facebook."
+
+#: git/places-editors-groups/index.php:17
+msgid "The Places Editors Group Finder is a map showing all the groups on Facebook for Places Editors, including the international, social and ideas groups."
+msgstr "Le Groupe Places rédacteurs Finder est une carte montrant tous les groupes sur Facebook pour Lieux éditeurs, y compris les groupes internationaux, sociaux et idées."
+
+#: git/places-editors-groups/index.php:64
+msgid "Main International Group"
+msgstr "Principal Group International"
+
+#: git/places-editors-groups/index.php:65
+msgid "Social Community Group"
+msgstr "Groupe social communautaire"
+
+#: git/places-editors-groups/index.php:66
+msgid "Ideas Group"
+msgstr "Idées Groupe"
+
+#: git/places-editors-groups/index.php:68
+msgid "Alternative List View"
+msgstr "Liste Alternative View"
+
+#: git/places-editors-groups/index.php:68
+msgid "Go to the Community tab of the Facebook Editor to see groups in list format."
+msgstr "Allez à l'onglet Communauté de l'éditeur de Facebook de voir des groupes sous forme de liste."
+
+#: git/places-editors-groups/index.php:72
+msgid "Error? Contact Us"
+msgstr "Erreur? Contactez Nous"
+
+#: git/places-editors-groups/index.php:76
+msgid "Loading"
+msgstr "Chargement"
+
+#: git/request-an-account/index.php:11
+msgid "Request an account on the FB Wiki &mdash; your comprehensive guide to everything Facebook related."
+msgstr "Demander un compte sur le FB Wiki & mdash; Votre guide complet pour tout liée Facebook."
+
+#: git/search-the-wiki/index.php:11
+msgid "This is the main wiki search page for the FB Wiki &mdash; your comprehensive guide to everything Facebook related."
+msgstr "Ceci est la page de recherche principale du wiki pour le FB Wiki & mdash; Votre guide complet pour tout liée Facebook."
+
+#: git/search-the-wiki/index.php:58
+msgid "Welcome to the main search page for the wiki &mdash; your comprehensive guide to everything Facebook related."
+msgstr "Bienvenue sur la page de recherche principale pour le wiki & mdash; Votre guide complet pour tout liée Facebook."
+
