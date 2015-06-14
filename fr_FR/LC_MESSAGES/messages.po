@@ -23,7 +23,6 @@ msgid "Wiki"
 msgstr "Wiki"
 
 #: Menu
-msgctxt "Title to refer to the tools we built on the wiki."
 msgid "Tools"
 msgstr "Outils"
 
